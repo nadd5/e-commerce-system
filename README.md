@@ -9,8 +9,8 @@ The system includes:
 ## Screenshots
 
 ### Shopping Interface
-![Shopping UI](assets/gui%20output1.png)
-![Shopping UI](assets/gui%20output2.png)
+![Shopping UI](gui%20output1.png)
+![Shopping UI](gui%20output2.png)
 
 ### Checkout Receipt Output
-![Checkout Receipt](assets/output.png)
+![Checkout Receipt](output.png)
