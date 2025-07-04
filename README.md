@@ -15,6 +15,6 @@ The system includes:
 ### Checkout Receipt Output
 ![Checkout Receipt](output.png)
 
-### Insufficient Balance
+### Insufficient Balance Example
 ![Checkout Receipt](insufficientbalanceoutput.png)
 
