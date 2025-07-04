@@ -6,3 +6,11 @@ The system includes:
 - A Swing-based GUI for interactive shopping
 - Shipping logic for physical products
 - Expiry handling for perishable items
+## Screenshots
+
+### Shopping Interface
+![Shopping UI](assets/gui%20output1.png)
+![Shopping UI](assets/gui%20output2.png)
+
+### Checkout Receipt Output
+![Checkout Receipt](assets/output.png)
